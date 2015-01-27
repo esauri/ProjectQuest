@@ -1,0 +1,57 @@
+C:\Users\erick_000\Desktop\ErickSauri_Project3\ErickSauri_Project2\bin\Debug\ErickSauri_Project2.exe.config
+C:\Users\erick_000\Desktop\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\ErickSauri_Project2.exe
+C:\Users\erick_000\Desktop\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\ErickSauri_Project2.pdb
+C:\Users\erick_000\Desktop\ErickSauri_Project3\ErickSauri_Project2\bin\Debug\ErickSauri_Project2.exe
+C:\Users\erick_000\Desktop\ErickSauri_Project3\ErickSauri_Project2\bin\Debug\ErickSauri_Project2.pdb
+C:\Users\erick_000\Desktop\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\Sauri_Project3.csprojResolveAssemblyReference.cache
+C:\Users\erick_000\Desktop\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\BattleWindow.baml
+C:\Users\erick_000\Desktop\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\InstructionWindow.baml
+C:\Users\erick_000\Desktop\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\MainWindow.baml
+C:\Users\erick_000\Desktop\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\BattleWindow.g.cs
+C:\Users\erick_000\Desktop\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\InstructionWindow.g.cs
+C:\Users\erick_000\Desktop\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\MainWindow.g.cs
+C:\Users\erick_000\Desktop\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\App.g.cs
+C:\Users\erick_000\Desktop\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\ErickSauri_Project2_MarkupCompile.cache
+C:\Users\erick_000\Desktop\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\ErickSauri_Project2.g.resources
+C:\Users\erick_000\Desktop\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\Sauri_Project3.Properties.Resources.resources
+C:\Users\erick_000\Desktop\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\Sauri_Project3.csproj.GenerateResource.Cache
+C:\Users\erick_000\Desktop\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\App.baml
+C:\Users\erick_000\Desktop\Prog 2\ErickSauri_Project3\ErickSauri_Project2\bin\Debug\ErickSauri_Project2.exe.config
+C:\Users\erick_000\Desktop\Prog 2\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\ErickSauri_Project2.exe
+C:\Users\erick_000\Desktop\Prog 2\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\ErickSauri_Project2.pdb
+C:\Users\erick_000\Desktop\Prog 2\ErickSauri_Project3\ErickSauri_Project2\bin\Debug\ErickSauri_Project2.exe
+C:\Users\erick_000\Desktop\Prog 2\ErickSauri_Project3\ErickSauri_Project2\bin\Debug\ErickSauri_Project2.pdb
+C:\Users\erick_000\Desktop\Prog 2\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\Sauri_Project3.csprojResolveAssemblyReference.cache
+C:\Users\erick_000\Desktop\Prog 2\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\BattleWindow.baml
+C:\Users\erick_000\Desktop\Prog 2\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\InstructionWindow.baml
+C:\Users\erick_000\Desktop\Prog 2\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\MainWindow.baml
+C:\Users\erick_000\Desktop\Prog 2\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\App.baml
+C:\Users\erick_000\Desktop\Prog 2\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\BattleWindow.g.cs
+C:\Users\erick_000\Desktop\Prog 2\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\InstructionWindow.g.cs
+C:\Users\erick_000\Desktop\Prog 2\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\MainWindow.g.cs
+C:\Users\erick_000\Desktop\Prog 2\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\App.g.cs
+C:\Users\erick_000\Desktop\Prog 2\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\ErickSauri_Project2_MarkupCompile.cache
+C:\Users\erick_000\Desktop\Prog 2\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\ErickSauri_Project2.g.resources
+C:\Users\erick_000\Desktop\Prog 2\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\Sauri_Project3.Properties.Resources.resources
+C:\Users\erick_000\Desktop\Prog 2\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\Sauri_Project3.csproj.GenerateResource.Cache
+C:\Users\erick_000\Documents\Prog 2\ErickSauri_Project3\ErickSauri_Project2\bin\Debug\ErickSauri_Project2.exe.config
+C:\Users\erick_000\Documents\Prog 2\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\ErickSauri_Project2.exe
+C:\Users\erick_000\Documents\Prog 2\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\ErickSauri_Project2.pdb
+C:\Users\erick_000\Documents\Prog 2.0\ErickSauri_Project3\ErickSauri_Project2\bin\Debug\ErickSauri_Project2.exe.config
+C:\Users\erick_000\Documents\Prog 2.0\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\ErickSauri_Project2.exe
+C:\Users\erick_000\Documents\Prog 2.0\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\ErickSauri_Project2.pdb
+C:\Users\erick_000\Documents\Prog 2.0\ErickSauri_Project3\ErickSauri_Project2\bin\Debug\ErickSauri_Project2.exe
+C:\Users\erick_000\Documents\Prog 2.0\ErickSauri_Project3\ErickSauri_Project2\bin\Debug\ErickSauri_Project2.pdb
+C:\Users\erick_000\Documents\Prog 2.0\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\Sauri_Project3.csprojResolveAssemblyReference.cache
+C:\Users\erick_000\Documents\Prog 2.0\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\BattleWindow.baml
+C:\Users\erick_000\Documents\Prog 2.0\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\InstructionWindow.baml
+C:\Users\erick_000\Documents\Prog 2.0\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\MainWindow.baml
+C:\Users\erick_000\Documents\Prog 2.0\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\App.baml
+C:\Users\erick_000\Documents\Prog 2.0\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\BattleWindow.g.cs
+C:\Users\erick_000\Documents\Prog 2.0\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\InstructionWindow.g.cs
+C:\Users\erick_000\Documents\Prog 2.0\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\MainWindow.g.cs
+C:\Users\erick_000\Documents\Prog 2.0\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\App.g.cs
+C:\Users\erick_000\Documents\Prog 2.0\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\ErickSauri_Project2_MarkupCompile.cache
+C:\Users\erick_000\Documents\Prog 2.0\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\ErickSauri_Project2.g.resources
+C:\Users\erick_000\Documents\Prog 2.0\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\Sauri_Project3.Properties.Resources.resources
+C:\Users\erick_000\Documents\Prog 2.0\ErickSauri_Project3\ErickSauri_Project2\obj\Debug\Sauri_Project3.csproj.GenerateResource.Cache

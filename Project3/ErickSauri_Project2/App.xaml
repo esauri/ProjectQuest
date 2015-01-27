@@ -1,0 +1,13 @@
+﻿<Application x:Class="Sauri_Project3.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <BitmapImage x:Key="hero" CreateOptions="IgnoreImageCache" CacheOption="OnLoad" UriSource="Projectpics\hero.png"/>
+        <BitmapImage x:Key="goblin" CreateOptions="IgnoreImageCache" CacheOption="OnLoad" UriSource="Projectpics\goblin.png"/>
+        <BitmapImage x:Key="horde" CreateOptions="IgnoreImageCache" CacheOption="OnLoad" UriSource="Projectpics\orcsquad.png"/>
+        <BitmapImage x:Key="champ" CreateOptions="IgnoreImageCache" CacheOption="OnLoad" UriSource="Projectpics\orcchampion.png"/>
+        <BitmapImage x:Key="boss" CreateOptions="IgnoreImageCache" CacheOption="OnLoad" UriSource="Projectpics\bosspic.png"/>
+        
+    </Application.Resources>
+</Application>

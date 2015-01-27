@@ -1,0 +1,10 @@
+﻿<Window x:Class="Sauri_Project3.InstructionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="How to Play" Height="300" Width="300">
+    <Grid>
+        <TextBlock x:Name="infoBox" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="249" Width="272"><InlineUIContainer>
+        		<Image x:Name="infopic" Height="249" Width="270"/>
+        	</InlineUIContainer></TextBlock>
+    </Grid>
+</Window>
